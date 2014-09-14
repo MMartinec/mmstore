@@ -2,4 +2,4 @@ mmstore
 =======
 
 Shopping cart
-https://github.com/MMartinec/mmstore.git
+http://mmartinec.github.io/mmstore/index.html
